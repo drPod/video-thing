@@ -1,0 +1,108 @@
+- generic [ref=e8]:
+  - navigation "Main" [ref=e10]:
+    - generic [ref=e17]:
+      - generic [ref=e19]:
+        - button "Open mobile navigation menu" [ref=e21] [cursor=pointer]:
+          - img [ref=e24]
+        - link "Meta home" [ref=e26] [cursor=pointer]:
+          - /url: /
+          - img "Meta" [ref=e27]
+      - generic [ref=e30]:
+        - button "Search Developer Center" [ref=e31] [cursor=pointer]:
+          - img [ref=e34]
+        - button "Login" [ref=e36] [cursor=pointer]
+        - link "Register" [ref=e37] [cursor=pointer]:
+          - /url: /signup/landing/
+  - generic [ref=e44]:
+    - generic [ref=e46]:
+      - generic [ref=e47]:
+        - generic [ref=e48]: API reference
+        - generic [ref=e49]:
+          - button "Dropdown" [ref=e51] [cursor=pointer]:
+            - generic [ref=e52]:
+              - generic [ref=e54]: "0.6"
+              - img [ref=e55]
+          - textbox "Filter by keywords or terms..." [ref=e58]
+      - generic [ref=e60]:
+        - generic "Overview" [ref=e61]:
+          - link "Overview" [ref=e62] [cursor=pointer]:
+            - /url: /docs/reference/ios_swift/dat/0.6
+            - generic [ref=e65]: Overview
+        - generic "MWDATCamera" [ref=e67]:
+          - link "MWDATCamera" [ref=e68] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e69]:
+              - generic [ref=e71]: MWDATCamera
+              - img [ref=e73]
+        - generic "MWDATCore" [ref=e76]:
+          - link "MWDATCore" [ref=e77] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e78]:
+              - generic [ref=e80]: MWDATCore
+              - img [ref=e82]
+        - generic "MWDATMockDevice" [ref=e85]:
+          - link "MWDATMockDevice" [ref=e86] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e87]:
+              - generic [ref=e89]: MWDATMockDevice
+              - img [ref=e91]
+    - generic [ref=e103]:
+      - heading "Wearables iOS Swift API Reference" [level=3] [ref=e105]
+      - text: The Wearables Device Access Toolkit SDK enables developers to integrate Meta’s Wearables into iOS applications, providing APIs for device registration, connection management, and advanced features like real-time camera streaming and sensor access. This SDK simplifies permission handling and device selection, allowing apps to securely request and manage access to hardware features such as cameras and microphones, unlocking new interactive experiences for users.
+  - generic [ref=e109]:
+    - separator [ref=e110]
+    - generic [ref=e111]:
+      - generic [ref=e113]:
+        - img "Meta" [ref=e117]
+        - generic [ref=e119]:
+          - generic [ref=e120]:
+            - generic [ref=e122]:
+              - link "Build with Meta" [ref=e124] [cursor=pointer]:
+                - /url: https://developers.meta.com/
+              - list [ref=e125]:
+                - listitem [ref=e126]:
+                  - link "Social Technologies" [ref=e128] [cursor=pointer]:
+                    - /url: https://developers.facebook.com/
+                - listitem [ref=e129]:
+                  - link "Meta Horizon" [ref=e131] [cursor=pointer]:
+                    - /url: https://developers.meta.com/horizon/
+                - listitem [ref=e132]:
+                  - link "AI" [ref=e134] [cursor=pointer]:
+                    - /url: https://www.llama.com/
+                - listitem [ref=e135]:
+                  - link "Worlds" [ref=e137] [cursor=pointer]:
+                    - /url: https://developers.meta.com/horizon-worlds/
+                - listitem [ref=e138]:
+                  - link "Wearables" [ref=e140] [cursor=pointer]:
+                    - /url: https://developers.meta.com/wearables/
+            - generic [ref=e142]:
+              - generic [ref=e143]: About us
+              - list [ref=e144]:
+                - listitem [ref=e145]:
+                  - link "Careers" [ref=e147] [cursor=pointer]:
+                    - /url: https://www.metacareers.com/teams/technology?tab=Metaverse%20and%20Wearables
+                - listitem [ref=e148]:
+                  - link "Research" [ref=e150] [cursor=pointer]:
+                    - /url: https://www.meta.com/emerging-tech/?utm_source=about.meta.com&utm_medium=redirect
+                - listitem [ref=e151]:
+                  - link "Products" [ref=e153] [cursor=pointer]:
+                    - /url: https://www.meta.com/ai-glasses/
+          - generic [ref=e156]:
+            - generic [ref=e157]: Support and legal
+            - list [ref=e158]:
+              - listitem [ref=e159]:
+                - link "Wearables Developer Terms" [ref=e161] [cursor=pointer]:
+                  - /url: https://wearables.developer.meta.com/terms/
+              - listitem [ref=e162]:
+                - link "Acceptable Use Policy" [ref=e164] [cursor=pointer]:
+                  - /url: https://wearables.developer.meta.com/acceptable-use-policy/
+              - listitem [ref=e165]:
+                - link "Legal" [ref=e167] [cursor=pointer]:
+                  - /url: https://www.meta.com/legal/supplemental-terms-of-service/
+              - listitem [ref=e168]:
+                - link "Privacy" [ref=e170] [cursor=pointer]:
+                  - /url: https://www.meta.com/legal/privacy-policy/
+      - generic [ref=e172]:
+        - button "Change language" [ref=e176] [cursor=pointer]:
+          - generic [ref=e178]: English (US)
+        - generic [ref=e180]: © 2026 Meta

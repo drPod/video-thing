@@ -1,0 +1,115 @@
+# DAT SDK v0.6
+
+> The Meta Wearables Device Access Toolkit enables developers to build hands-free wearable experiences with Meta AI glasses.
+
+- [Full API reference + guides](https://wearables.developer.meta.com/llms.txt?full=true)
+- [Developer documentation](https://wearables.developer.meta.com/docs/develop/)
+
+## Guides
+
+- [Getting Started](https://wearables.developer.meta.com/docs/getting-started-toolkit)
+- [Integration Overview](https://wearables.developer.meta.com/docs/build-overview)
+- [iOS Integration](https://wearables.developer.meta.com/docs/build-integration-ios)
+- [Android Integration](https://wearables.developer.meta.com/docs/build-integration-android)
+- [Session Lifecycle](https://wearables.developer.meta.com/docs/lifecycle-events)
+- [Permissions](https://wearables.developer.meta.com/docs/permissions-requests)
+- [Mock Device Kit](https://wearables.developer.meta.com/docs/mock-device-kit)
+
+## Android API Reference
+
+- StreamConfiguration
+- VideoFrame
+- AutoDeviceSelector
+- SpecificDeviceSelector
+- DeviceSelectorBase
+- BaseCapability
+- DeviceSession
+- Session
+- DatException
+- DatResult
+- Device
+- DeviceIdentifier
+- RegistrationState
+- WearablesException
+- MockDeviceKitConfig
+- MockDeviceKit
+- StreamError (enum)
+- VideoQuality (enum)
+- StreamSessionState (enum)
+- SessionState (enum)
+- DeviceSessionState (enum)
+- DeviceCompatibility (enum)
+- DeviceType (enum)
+- LinkState (enum)
+- Permission (enum)
+- PermissionError (enum)
+- RegistrationError (enum)
+- SessionError (enum)
+- WearablesError (enum)
+- CameraFacing (enum)
+- Stream
+- StreamSession
+- PhotoData
+- CaptureError
+- DatError
+- DeviceSelector
+- Capability
+- PermissionStatus
+- MockCameraKit
+- MockDevice
+- MockDeviceKitInterface
+- MockDisplaylessGlasses
+- MockDisplaylessGlassesServices
+- MockRaybanMeta
+- MockPermissions
+- Wearables
+
+## iOS Swift API Reference
+
+- PhotoCaptureFormat (enum)
+- PhotoData
+- StreamSession
+- StreamingResolution (enum)
+- StreamSessionConfig
+- StreamSessionError (enum)
+- StreamSessionState (enum)
+- VideoCodec (enum)
+- VideoFrame
+- VideoFrameSize
+- Announcer (protocol)
+- AnyListenerToken (protocol)
+- AutoDeviceSelector
+- Capability (protocol)
+- CapabilityState (enum)
+- Compatibility (enum)
+- DeviceIdentifier
+- Device
+- DeviceSelector (protocol)
+- DeviceSessionError (enum)
+- DeviceSessionState (enum)
+- DeviceStateSession
+- DeviceType (enum)
+- LinkState (enum)
+- Mutex
+- Permission (enum)
+- PermissionError (enum)
+- PermissionStatus (enum)
+- RegistrationError (enum)
+- RegistrationState (enum)
+- SessionState (enum)
+- SpecificDeviceSelector
+- UnregistrationError (enum)
+- Wearables (enum)
+- WearablesInterface (protocol)
+- WearablesError (enum)
+- WearablesHandleURLError (enum)
+- CameraFacing (enum)
+- MockCameraKit (protocol)
+- MockDevice (protocol)
+- MockDeviceKit (enum)
+- MockDeviceKitConfig
+- MockDeviceKitInterface (protocol)
+- MockDisplaylessGlasses (protocol)
+- MockDisplaylessGlassesServices (protocol)
+- MockPermissions (protocol)
+- MockRaybanMeta (protocol)

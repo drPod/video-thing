@@ -1,0 +1,158 @@
+- generic [ref=e8]:
+  - navigation "Main" [ref=e10]:
+    - generic [ref=e17]:
+      - generic [ref=e19]:
+        - button "Open mobile navigation menu" [ref=e21] [cursor=pointer]:
+          - img [ref=e24]
+        - link "Meta home" [ref=e26] [cursor=pointer]:
+          - /url: /
+          - img "Meta" [ref=e27]
+      - generic [ref=e30]:
+        - button "Search Developer Center" [ref=e31] [cursor=pointer]:
+          - img [ref=e34]
+        - button "Login" [ref=e36] [cursor=pointer]
+        - link "Register" [ref=e37] [cursor=pointer]:
+          - /url: /signup/landing/
+  - generic [ref=e44]:
+    - generic [ref=e46]:
+      - generic [ref=e47]:
+        - generic [ref=e48]: API reference
+        - generic [ref=e49]:
+          - button "Dropdown" [ref=e51] [cursor=pointer]:
+            - generic [ref=e52]:
+              - generic [ref=e54]: "0.6"
+              - img [ref=e55]
+          - textbox "Filter by keywords or terms..." [ref=e58]
+      - generic [ref=e60]:
+        - generic "Overview" [ref=e61]:
+          - link "Overview" [ref=e62] [cursor=pointer]:
+            - /url: /docs/reference/android/dat/0.6
+            - generic [ref=e65]: Overview
+        - generic [ref=e66]:
+          - generic "com.meta.wearable.dat" [ref=e67]:
+            - link "com.meta.wearable.dat" [ref=e68] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e69]:
+                - generic [ref=e71]: com.meta.wearable.dat
+                - img [ref=e73]
+          - generic [ref=e76]:
+            - generic "camera" [ref=e78]:
+              - link "camera" [ref=e79] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e80]:
+                  - generic [ref=e82]: camera
+                  - img [ref=e84]
+            - generic "camera.types" [ref=e87]:
+              - link "camera.types" [ref=e88] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e89]:
+                  - generic [ref=e91]: camera.types
+                  - img [ref=e93]
+            - generic "core" [ref=e96]:
+              - link "core" [ref=e97] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e98]:
+                  - generic [ref=e100]: core
+                  - img [ref=e102]
+            - generic "core.selectors" [ref=e105]:
+              - link "core.selectors" [ref=e106] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e107]:
+                  - generic [ref=e109]: core.selectors
+                  - img [ref=e111]
+            - generic "core.session" [ref=e114]:
+              - link "core.session" [ref=e115] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e116]:
+                  - generic [ref=e118]: core.session
+                  - img [ref=e120]
+            - generic "core.types" [ref=e123]:
+              - link "core.types" [ref=e124] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e125]:
+                  - generic [ref=e127]: core.types
+                  - img [ref=e129]
+            - generic "mockdevice" [ref=e132]:
+              - link "mockdevice" [ref=e133] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e134]:
+                  - generic [ref=e136]: mockdevice
+                  - img [ref=e138]
+            - generic "mockdevice.api" [ref=e141]:
+              - link "mockdevice.api" [ref=e142] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e143]:
+                  - generic [ref=e145]: mockdevice.api
+                  - img [ref=e147]
+            - generic "mockdevice.api.camera" [ref=e150]:
+              - link "mockdevice.api.camera" [ref=e151] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e152]:
+                  - generic [ref=e154]: mockdevice.api.camera
+                  - img [ref=e156]
+            - generic "mockdevice.api.permissions" [ref=e159]:
+              - link "mockdevice.api.permissions" [ref=e160] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e161]:
+                  - generic [ref=e163]: mockdevice.api.permissions
+                  - img [ref=e165]
+    - generic [ref=e177]:
+      - heading "Wearables Android API Reference" [level=3] [ref=e179]
+      - text: The Wearables Device Access Toolkit SDK enables developers to integrate Meta’s Wearables into Android applications, providing APIs for device registration, connection management, and advanced features like real-time camera streaming and sensor access. This SDK simplifies permission handling and device selection, allowing apps to securely request and manage access to hardware features such as cameras and microphones, unlocking new interactive experiences for users.
+  - generic [ref=e183]:
+    - separator [ref=e184]
+    - generic [ref=e185]:
+      - generic [ref=e187]:
+        - img "Meta" [ref=e191]
+        - generic [ref=e193]:
+          - generic [ref=e194]:
+            - generic [ref=e196]:
+              - link "Build with Meta" [ref=e198] [cursor=pointer]:
+                - /url: https://developers.meta.com/
+              - list [ref=e199]:
+                - listitem [ref=e200]:
+                  - link "Social Technologies" [ref=e202] [cursor=pointer]:
+                    - /url: https://developers.facebook.com/
+                - listitem [ref=e203]:
+                  - link "Meta Horizon" [ref=e205] [cursor=pointer]:
+                    - /url: https://developers.meta.com/horizon/
+                - listitem [ref=e206]:
+                  - link "AI" [ref=e208] [cursor=pointer]:
+                    - /url: https://www.llama.com/
+                - listitem [ref=e209]:
+                  - link "Worlds" [ref=e211] [cursor=pointer]:
+                    - /url: https://developers.meta.com/horizon-worlds/
+                - listitem [ref=e212]:
+                  - link "Wearables" [ref=e214] [cursor=pointer]:
+                    - /url: https://developers.meta.com/wearables/
+            - generic [ref=e216]:
+              - generic [ref=e217]: About us
+              - list [ref=e218]:
+                - listitem [ref=e219]:
+                  - link "Careers" [ref=e221] [cursor=pointer]:
+                    - /url: https://www.metacareers.com/teams/technology?tab=Metaverse%20and%20Wearables
+                - listitem [ref=e222]:
+                  - link "Research" [ref=e224] [cursor=pointer]:
+                    - /url: https://www.meta.com/emerging-tech/?utm_source=about.meta.com&utm_medium=redirect
+                - listitem [ref=e225]:
+                  - link "Products" [ref=e227] [cursor=pointer]:
+                    - /url: https://www.meta.com/ai-glasses/
+          - generic [ref=e230]:
+            - generic [ref=e231]: Support and legal
+            - list [ref=e232]:
+              - listitem [ref=e233]:
+                - link "Wearables Developer Terms" [ref=e235] [cursor=pointer]:
+                  - /url: https://wearables.developer.meta.com/terms/
+              - listitem [ref=e236]:
+                - link "Acceptable Use Policy" [ref=e238] [cursor=pointer]:
+                  - /url: https://wearables.developer.meta.com/acceptable-use-policy/
+              - listitem [ref=e239]:
+                - link "Legal" [ref=e241] [cursor=pointer]:
+                  - /url: https://www.meta.com/legal/supplemental-terms-of-service/
+              - listitem [ref=e242]:
+                - link "Privacy" [ref=e244] [cursor=pointer]:
+                  - /url: https://www.meta.com/legal/privacy-policy/
+      - generic [ref=e246]:
+        - button "Change language" [ref=e250] [cursor=pointer]:
+          - generic [ref=e252]: English (US)
+        - generic [ref=e254]: © 2026 Meta

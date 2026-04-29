@@ -1,0 +1,704 @@
+{
+  "snapshot": "2026-04-28",
+  "source": "https://wearables.developer.meta.com",
+  "scraper_version": "0.2",
+  "pages": [
+    {
+      "url": "https://wearables.developer.meta.com/docs/ai-assisted",
+      "file": "guides/ai-assisted.md",
+      "title": "AI-Assisted Development",
+      "bytes": 5080
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/ai-assisted-agents-md",
+      "file": "guides/ai-assisted-agents-md.md",
+      "title": "AGENTS.md",
+      "bytes": 3137
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/ai-assisted-claude-code",
+      "file": "guides/ai-assisted-claude-code.md",
+      "title": "Claude Code",
+      "bytes": 1893
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/ai-assisted-cursor",
+      "file": "guides/ai-assisted-cursor.md",
+      "title": "Cursor",
+      "bytes": 1296
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/ai-assisted-github-copilot",
+      "file": "guides/ai-assisted-github-copilot.md",
+      "title": "GitHub Copilot",
+      "bytes": 1442
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/build-integration-android",
+      "file": "guides/build-integration-android.md",
+      "title": "Integrate Wearables Device Access Toolkit into your Android app",
+      "bytes": 13701
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/build-integration-ios",
+      "file": "guides/build-integration-ios.md",
+      "title": "Integrate Wearables Device Access Toolkit into your iOS app",
+      "bytes": 11746
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/build-overview",
+      "file": "guides/build-overview.md",
+      "title": "Integration overview",
+      "bytes": 3614
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/download-your-information",
+      "file": "guides/download-your-information.md",
+      "title": "Access your Meta Wearables Device Access Toolkit information",
+      "bytes": 2484
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/getting-started-toolkit",
+      "file": "guides/getting-started-toolkit.md",
+      "title": "Setup",
+      "bytes": 2774
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/knownissues",
+      "file": "guides/knownissues.md",
+      "title": "Known issues",
+      "bytes": 1653
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/lifecycle-events",
+      "file": "guides/lifecycle-events.md",
+      "title": "Session lifecycle",
+      "bytes": 4421
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/manage-projects",
+      "file": "guides/manage-projects.md",
+      "title": "Manage projects",
+      "bytes": 2584
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/microphones-and-speakers",
+      "file": "guides/microphones-and-speakers.md",
+      "title": "Use device microphones and speakers",
+      "bytes": 2731
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/mock-device-kit",
+      "file": "guides/mock-device-kit.md",
+      "title": "Mock Device Kit",
+      "bytes": 3237
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/onboarding-and-organization-management",
+      "file": "guides/onboarding-and-organization-management.md",
+      "title": "Onboarding and organization management",
+      "bytes": 4716
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/permissions-requests",
+      "file": "guides/permissions-requests.md",
+      "title": "Permissions and registration",
+      "bytes": 3746
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/set-up-release-channels",
+      "file": "guides/set-up-release-channels.md",
+      "title": "Set up versions and release channels in Meta Wearables Developer Center",
+      "bytes": 6942
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/testing-mdk-android",
+      "file": "guides/testing-mdk-android.md",
+      "title": "How to test with Mock Device Kit on Android",
+      "bytes": 2895
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/testing-mdk-ios",
+      "file": "guides/testing-mdk-ios.md",
+      "title": "How to test with Mock Device Kit on iOS",
+      "bytes": 1789
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/version-dependencies",
+      "file": "guides/version-dependencies.md",
+      "title": "Version Dependencies",
+      "bytes": 993
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_camera_stream",
+      "file": "api/android/stream.md",
+      "title": "Stream Interface | Android: Developer Access Toolkit 0.6",
+      "bytes": 4216
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_camera_streamsession",
+      "file": "api/android/streamsession.md",
+      "title": "StreamSession Interface | Android: Developer Access Toolkit 0.6",
+      "bytes": 3874
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_camera_types_captureerror",
+      "file": "api/android/captureerror.md",
+      "title": "CaptureError Interface | Android: Developer Access Toolkit 0.6",
+      "bytes": 7915
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_camera_types_photodata",
+      "file": "api/android/photodata.md",
+      "title": "PhotoData Interface | Android: Developer Access Toolkit 0.6",
+      "bytes": 1366
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_camera_types_streamconfiguration",
+      "file": "api/android/streamconfiguration.md",
+      "title": "StreamConfiguration Class | Android: Developer Access Toolkit 0.6",
+      "bytes": 1732
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_camera_types_streamerror",
+      "file": "api/android/streamerror.md",
+      "title": "StreamError Enum | Android: Developer Access Toolkit 0.6",
+      "bytes": 1346
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_camera_types_streamsessionstate",
+      "file": "api/android/streamsessionstate.md",
+      "title": "StreamSessionState Enum | Android: Developer Access Toolkit 0.6",
+      "bytes": 6274
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_camera_types_videoframe",
+      "file": "api/android/videoframe.md",
+      "title": "VideoFrame Class | Android: Developer Access Toolkit 0.6",
+      "bytes": 1752
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_camera_types_videoquality",
+      "file": "api/android/videoquality.md",
+      "title": "VideoQuality Enum | Android: Developer Access Toolkit 0.6",
+      "bytes": 6222
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_selectors_autodeviceselector",
+      "file": "api/android/autodeviceselector.md",
+      "title": "AutoDeviceSelector Class | Android: Developer Access Toolkit 0.6",
+      "bytes": 3704
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_selectors_deviceselector",
+      "file": "api/android/deviceselector.md",
+      "title": "DeviceSelector Interface | Android: Developer Access Toolkit 0.6",
+      "bytes": 2935
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_selectors_deviceselectorbase",
+      "file": "api/android/deviceselectorbase.md",
+      "title": "DeviceSelectorBase Class | Android: Developer Access Toolkit 0.6",
+      "bytes": 3055
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_selectors_specificdeviceselector",
+      "file": "api/android/specificdeviceselector.md",
+      "title": "SpecificDeviceSelector Class | Android: Developer Access Toolkit 0.6",
+      "bytes": 3381
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_session_basecapability",
+      "file": "api/android/basecapability.md",
+      "title": "BaseCapability Class | Android: Developer Access Toolkit 0.6",
+      "bytes": 2016
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_session_capability",
+      "file": "api/android/capability.md",
+      "title": "Capability Interface | Android: Developer Access Toolkit 0.6",
+      "bytes": 1793
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_session_devicesession",
+      "file": "api/android/devicesession.md",
+      "title": "DeviceSession Class | Android: Developer Access Toolkit 0.6",
+      "bytes": 2507
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_session_devicesessionstate",
+      "file": "api/android/devicesessionstate.md",
+      "title": "DeviceSessionState Enum | Android: Developer Access Toolkit 0.6",
+      "bytes": 3141
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_session_session",
+      "file": "api/android/session.md",
+      "title": "Session Class | Android: Developer Access Toolkit 0.6",
+      "bytes": 8939
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_session_sessionstate",
+      "file": "api/android/sessionstate.md",
+      "title": "SessionState Enum | Android: Developer Access Toolkit 0.6",
+      "bytes": 997
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_types_daterror",
+      "file": "api/android/daterror.md",
+      "title": "DatError Interface | Android: Developer Access Toolkit 0.6",
+      "bytes": 2109
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_types_datexception",
+      "file": "api/android/datexception.md",
+      "title": "DatException Class | Android: Developer Access Toolkit 0.6",
+      "bytes": 2269
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_types_datresult",
+      "file": "api/android/datresult.md",
+      "title": "DatResult Class | Android: Developer Access Toolkit 0.6",
+      "bytes": 9848
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_types_device",
+      "file": "api/android/device.md",
+      "title": "Device Class | Android: Developer Access Toolkit 0.6",
+      "bytes": 2436
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_types_devicecompatibility",
+      "file": "api/android/devicecompatibility.md",
+      "title": "DeviceCompatibility Enum | Android: Developer Access Toolkit 0.6",
+      "bytes": 1670
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_types_deviceidentifier",
+      "file": "api/android/deviceidentifier.md",
+      "title": "DeviceIdentifier Class | Android: Developer Access Toolkit 0.6",
+      "bytes": 811
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_types_devicetype",
+      "file": "api/android/devicetype.md",
+      "title": "DeviceType Enum | Android: Developer Access Toolkit 0.6",
+      "bytes": 718
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_types_linkstate",
+      "file": "api/android/linkstate.md",
+      "title": "LinkState Enum | Android: Developer Access Toolkit 0.6",
+      "bytes": 5737
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_types_permission",
+      "file": "api/android/permission.md",
+      "title": "Permission Enum | Android: Developer Access Toolkit 0.6",
+      "bytes": 1278
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_types_permissionerror",
+      "file": "api/android/permissionerror.md",
+      "title": "PermissionError Enum | Android: Developer Access Toolkit 0.6",
+      "bytes": 1722
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_types_permissionstatus",
+      "file": "api/android/permissionstatus.md",
+      "title": "PermissionStatus Interface | Android: Developer Access Toolkit 0.6",
+      "bytes": 6241
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_types_registrationerror",
+      "file": "api/android/registrationerror.md",
+      "title": "RegistrationError Enum | Android: Developer Access Toolkit 0.6",
+      "bytes": 1817
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_types_registrationstate",
+      "file": "api/android/registrationstate.md",
+      "title": "RegistrationState Class | Android: Developer Access Toolkit 0.6",
+      "bytes": 5089
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_types_sessionerror",
+      "file": "api/android/sessionerror.md",
+      "title": "SessionError Enum | Android: Developer Access Toolkit 0.6",
+      "bytes": 2815
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_types_wearableserror",
+      "file": "api/android/wearableserror.md",
+      "title": "WearablesError Enum | Android: Developer Access Toolkit 0.6",
+      "bytes": 1378
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_types_wearablesexception",
+      "file": "api/android/wearablesexception.md",
+      "title": "WearablesException Class | Android: Developer Access Toolkit 0.6",
+      "bytes": 2457
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_core_wearables",
+      "file": "api/android/wearables.md",
+      "title": "Wearables Object | Android: Developer Access Toolkit 0.6",
+      "bytes": 10522
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_mockdevice_api_camera_camerafacing",
+      "file": "api/android/camera_camerafacing.md",
+      "title": "CameraFacing Enum | Android: Developer Access Toolkit 0.6",
+      "bytes": 6294
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_mockdevice_api_camera_mockcamerakit",
+      "file": "api/android/camera_mockcamerakit.md",
+      "title": "MockCameraKit Interface | Android: Developer Access Toolkit 0.6",
+      "bytes": 2264
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_mockdevice_api_mockdevice",
+      "file": "api/android/mockdevice.md",
+      "title": "MockDevice Interface | Android: Developer Access Toolkit 0.6",
+      "bytes": 1467
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_mockdevice_api_mockdevicekitconfig",
+      "file": "api/android/mockdevicekitconfig.md",
+      "title": "MockDeviceKitConfig Class | Android: Developer Access Toolkit 0.6",
+      "bytes": 2513
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_mockdevice_api_mockdevicekitinterface",
+      "file": "api/android/mockdevicekitinterface.md",
+      "title": "MockDeviceKitInterface Interface | Android: Developer Access Toolkit 0.6",
+      "bytes": 3289
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_mockdevice_api_mockdisplaylessglasses",
+      "file": "api/android/mockdisplaylessglasses.md",
+      "title": "MockDisplaylessGlasses Interface | Android: Developer Access Toolkit 0.6",
+      "bytes": 2318
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_mockdevice_api_mockdisplaylessglassesservices",
+      "file": "api/android/mockdisplaylessglassesservices.md",
+      "title": "MockDisplaylessGlassesServices Interface | Android: Developer Access Toolkit 0.6",
+      "bytes": 6102
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_mockdevice_api_mockraybanmeta",
+      "file": "api/android/mockraybanmeta.md",
+      "title": "MockRaybanMeta Interface | Android: Developer Access Toolkit 0.6",
+      "bytes": 2340
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_mockdevice_api_permissions_mockpermissions",
+      "file": "api/android/permissions_mockpermissions.md",
+      "title": "MockPermissions Interface | Android: Developer Access Toolkit 0.6",
+      "bytes": 2062
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/android/dat/0.6/com_meta_wearable_dat_mockdevice_mockdevicekit",
+      "file": "api/android/mockdevicekit.md",
+      "title": "MockDeviceKit Class | Android: Developer Access Toolkit 0.6",
+      "bytes": 4983
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcamera_photocaptureformat",
+      "file": "api/ios/photocaptureformat.md",
+      "title": "PhotoCaptureFormat Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 4906
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcamera_photodata",
+      "file": "api/ios/photodata.md",
+      "title": "PhotoData Struct | iOS: Developer Access Toolkit 0.6",
+      "bytes": 5095
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcamera_streamingresolution",
+      "file": "api/ios/streamingresolution.md",
+      "title": "StreamingResolution Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 5098
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcamera_streamsession",
+      "file": "api/ios/streamsession.md",
+      "title": "StreamSession Class | iOS: Developer Access Toolkit 0.6",
+      "bytes": 3781
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcamera_streamsessionconfig",
+      "file": "api/ios/streamsessionconfig.md",
+      "title": "StreamSessionConfig Struct | iOS: Developer Access Toolkit 0.6",
+      "bytes": 1805
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcamera_streamsessionerror",
+      "file": "api/ios/streamsessionerror.md",
+      "title": "StreamSessionError Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 897
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcamera_streamsessionstate",
+      "file": "api/ios/streamsessionstate.md",
+      "title": "StreamSessionState Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 5149
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcamera_videocodec",
+      "file": "api/ios/videocodec.md",
+      "title": "VideoCodec Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 5155
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcamera_videoframe",
+      "file": "api/ios/videoframe.md",
+      "title": "VideoFrame Struct | iOS: Developer Access Toolkit 0.6",
+      "bytes": 1211
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcamera_videoframesize",
+      "file": "api/ios/videoframesize.md",
+      "title": "VideoFrameSize Struct | iOS: Developer Access Toolkit 0.6",
+      "bytes": 581
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_announcer",
+      "file": "api/ios/announcer.md",
+      "title": "Announcer Protocol | iOS: Developer Access Toolkit 0.6",
+      "bytes": 5073
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_anylistenertoken",
+      "file": "api/ios/anylistenertoken.md",
+      "title": "AnyListenerToken Protocol | iOS: Developer Access Toolkit 0.6",
+      "bytes": 4862
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_autodeviceselector",
+      "file": "api/ios/autodeviceselector.md",
+      "title": "AutoDeviceSelector Class | iOS: Developer Access Toolkit 0.6",
+      "bytes": 1192
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_capability",
+      "file": "api/ios/capability.md",
+      "title": "Capability Protocol | iOS: Developer Access Toolkit 0.6",
+      "bytes": 1186
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_capabilitystate",
+      "file": "api/ios/capabilitystate.md",
+      "title": "CapabilityState Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 4867
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_compatibility",
+      "file": "api/ios/compatibility.md",
+      "title": "Compatibility Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 1313
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_device",
+      "file": "api/ios/device.md",
+      "title": "Device Class | iOS: Developer Access Toolkit 0.6",
+      "bytes": 2728
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_deviceidentifier",
+      "file": "api/ios/deviceidentifier.md",
+      "title": "DeviceIdentifier Typealias | iOS: Developer Access Toolkit 0.6",
+      "bytes": 4631
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_deviceselector",
+      "file": "api/ios/deviceselector.md",
+      "title": "DeviceSelector Protocol | iOS: Developer Access Toolkit 0.6",
+      "bytes": 5167
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_devicesession",
+      "file": "api/ios/devicesession.md",
+      "title": "DeviceSession Class | iOS: Developer Access Toolkit 0.6",
+      "bytes": 4657
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_devicesessionerror",
+      "file": "api/ios/devicesessionerror.md",
+      "title": "DeviceSessionError Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 1033
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_devicesessionstate",
+      "file": "api/ios/devicesessionstate.md",
+      "title": "DeviceSessionState Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 975
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_devicestatesession",
+      "file": "api/ios/devicestatesession.md",
+      "title": "DeviceStateSession Class | iOS: Developer Access Toolkit 0.6",
+      "bytes": 839
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_devicetype",
+      "file": "api/ios/devicetype.md",
+      "title": "DeviceType Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 5122
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_linkstate",
+      "file": "api/ios/linkstate.md",
+      "title": "LinkState Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 5028
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_mutex",
+      "file": "api/ios/mutex.md",
+      "title": "Mutex Struct | iOS: Developer Access Toolkit 0.6",
+      "bytes": 4998
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_permission",
+      "file": "api/ios/permission.md",
+      "title": "Permission Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 4922
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_permissionerror",
+      "file": "api/ios/permissionerror.md",
+      "title": "PermissionError Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 761
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_permissionstatus",
+      "file": "api/ios/permissionstatus.md",
+      "title": "PermissionStatus Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 4808
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_registrationerror",
+      "file": "api/ios/registrationerror.md",
+      "title": "RegistrationError Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 787
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_registrationstate",
+      "file": "api/ios/registrationstate.md",
+      "title": "RegistrationState Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 5114
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_sessionstate",
+      "file": "api/ios/sessionstate.md",
+      "title": "SessionState Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 707
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_specificdeviceselector",
+      "file": "api/ios/specificdeviceselector.md",
+      "title": "SpecificDeviceSelector Class | iOS: Developer Access Toolkit 0.6",
+      "bytes": 1093
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_unregistrationerror",
+      "file": "api/ios/unregistrationerror.md",
+      "title": "UnregistrationError Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 696
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_wearables",
+      "file": "api/ios/wearables.md",
+      "title": "Wearables Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 954
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_wearableserror",
+      "file": "api/ios/wearableserror.md",
+      "title": "WearablesError Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 5006
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_wearableshandleurlerror",
+      "file": "api/ios/wearableshandleurlerror.md",
+      "title": "WearablesHandleURLError Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 4964
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatcore_wearablesinterface",
+      "file": "api/ios/wearablesinterface.md",
+      "title": "WearablesInterface Extension | iOS: Developer Access Toolkit 0.6",
+      "bytes": 8766
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatmockdevice_camerafacing",
+      "file": "api/ios/camerafacing.md",
+      "title": "CameraFacing Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 4698
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatmockdevice_mockcamerakit",
+      "file": "api/ios/mockcamerakit.md",
+      "title": "MockCameraKit Protocol | iOS: Developer Access Toolkit 0.6",
+      "bytes": 1260
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatmockdevice_mockdevice",
+      "file": "api/ios/mockdevice.md",
+      "title": "MockDevice Protocol | iOS: Developer Access Toolkit 0.6",
+      "bytes": 576
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatmockdevice_mockdevicekit",
+      "file": "api/ios/mockdevicekit.md",
+      "title": "MockDeviceKit Enum | iOS: Developer Access Toolkit 0.6",
+      "bytes": 5010
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatmockdevice_mockdevicekitconfig",
+      "file": "api/ios/mockdevicekitconfig.md",
+      "title": "MockDeviceKitConfig Struct | iOS: Developer Access Toolkit 0.6",
+      "bytes": 1027
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatmockdevice_mockdevicekitinterface",
+      "file": "api/ios/mockdevicekitinterface.md",
+      "title": "MockDeviceKitInterface Protocol | iOS: Developer Access Toolkit 0.6",
+      "bytes": 1752
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatmockdevice_mockdisplaylessglasses",
+      "file": "api/ios/mockdisplaylessglasses.md",
+      "title": "MockDisplaylessGlasses Protocol | iOS: Developer Access Toolkit 0.6",
+      "bytes": 789
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatmockdevice_mockdisplaylessglassesservices",
+      "file": "api/ios/mockdisplaylessglassesservices.md",
+      "title": "MockDisplaylessGlassesServices Protocol | iOS: Developer Access Toolkit 0.6",
+      "bytes": 4845
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatmockdevice_mockpermissions",
+      "file": "api/ios/mockpermissions.md",
+      "title": "MockPermissions Protocol | iOS: Developer Access Toolkit 0.6",
+      "bytes": 1401
+    },
+    {
+      "url": "https://wearables.developer.meta.com/docs/reference/ios_swift/dat/0.6/mwdatmockdevice_mockraybanmeta",
+      "file": "api/ios/mockraybanmeta.md",
+      "title": "MockRaybanMeta Protocol | iOS: Developer Access Toolkit 0.6",
+      "bytes": 4902
+    }
+  ],
+  "totals": {
+    "guides": 21,
+    "android": 46,
+    "ios": 48,
+    "scraped": 115,
+    "failed": 0
+  }
+}
